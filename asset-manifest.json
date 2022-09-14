@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Movies_Streaming-_Website/static/css/main.b0604099.css",
-    "main.js": "/Movies_Streaming-_Website/static/js/main.aa5e0787.js",
-    "static/js/787.e6fd85b1.chunk.js": "/Movies_Streaming-_Website/static/js/787.e6fd85b1.chunk.js",
-    "index.html": "/Movies_Streaming-_Website/index.html",
-    "main.b0604099.css.map": "/Movies_Streaming-_Website/static/css/main.b0604099.css.map",
-    "main.aa5e0787.js.map": "/Movies_Streaming-_Website/static/js/main.aa5e0787.js.map",
-    "787.e6fd85b1.chunk.js.map": "/Movies_Streaming-_Website/static/js/787.e6fd85b1.chunk.js.map"
+    "main.css": "/favourite/static/css/main.b0604099.css",
+    "main.js": "/favourite/static/js/main.020f2b3f.js",
+    "static/js/787.e6fd85b1.chunk.js": "/favourite/static/js/787.e6fd85b1.chunk.js",
+    "index.html": "/favourite/index.html",
+    "main.b0604099.css.map": "/favourite/static/css/main.b0604099.css.map",
+    "main.020f2b3f.js.map": "/favourite/static/js/main.020f2b3f.js.map",
+    "787.e6fd85b1.chunk.js.map": "/favourite/static/js/787.e6fd85b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0604099.css",
-    "static/js/main.aa5e0787.js"
+    "static/js/main.020f2b3f.js"
   ]
 }
