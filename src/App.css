@@ -1,0 +1,154 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+   
+
+}
+body{
+    background:  #1e1d1d;
+  
+}
+
+.bg-nav{
+    background: linear-gradient(90deg, rgba(0,0,0,1) 11%, rgba(39,40,39,1) 100%);
+}
+
+.banner-card{
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.banner-wrapper {
+    position: relative;
+    height: 25rem;
+    margin-top:1rem;
+    border-radius: 10px; 
+    
+   
+}
+
+.banner-img {
+    width: 100rem;
+    height: 25rem;
+    border-radius: 25px; 
+}
+
+.banner-text {
+    position: absolute;
+    top: 60%;
+    left: 30px;
+}
+
+.banner-title {
+    color: rgb(252, 252, 252);
+    font-size: 40px;
+    font-weight: 600;
+    text-shadow: 1px 0px 7px #1B1717;
+}
+
+.banner-title p {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    text-shadow: 1px 0px 7px #1B1717;
+}
+
+.movies-card{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ padding: 1rem;
+ 
+}
+.movies-wrapper{
+width: 18rem;
+height: 26rem;
+margin: 15px;
+position: relative;
+
+}
+.movies-img{
+width: 100vw;
+height: 64vh;
+transform: scale(1);
+}
+.movies-text{
+    position: absolute;
+    bottom: 20%;
+    left: 10%;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    text-shadow: 1px 0px 7px #1B1717;
+}
+.movies-title{
+    text-shadow: 1px 0px 7px #1B1717;
+}
+.movies-btn{
+
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    width: 100%;
+    
+}
+.movies-img:hover{
+    transform: scale(1.1);
+}
+.movies-btn Button{
+    width: 100%;
+    font-size: 18px;
+    text-transform: capitalize;
+    border-radius: 0;
+ 
+
+    
+}
+
+@media screen and (max-width:400px) {
+    .banner-wrapper {
+        position: relative;
+        height: 12rem;
+    }
+
+    .banner-img {
+        width: 100rem;
+        height: 12rem;
+    }
+
+    .banner-text {
+        position: absolute;
+        top: 48%;
+        left: 8px;
+
+    }
+
+    .banner-title {
+        color: #fff;
+        font-size: 15px;
+    }
+
+    .banner-title p {
+        color: #fff;
+        font-size: 7px;
+    }
+}
+
+
+.page-link {
+    cursor: pointer;
+    font-weight: 400;
+
+}
+.page-item{
+float: left;
+}
+
+
+.bg-card{
+   
+    background: linear-gradient(90deg, rgba(0,0,0,1) 11%, rgba(39,40,39,1) 100%);
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+   
+}
