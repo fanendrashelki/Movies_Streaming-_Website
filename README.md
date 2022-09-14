@@ -1,4 +1,12 @@
-(https://fanendrashelki.github.io/Movies_Streaming-_Website/)
+https://fanendrashelki.github.io/Movies_Streaming-_Website/
+# Home Page
+![screencapture-localhost-3000-2022-09-14-14_15_46](https://user-images.githubusercontent.com/58651025/190107208-329214dd-1911-4a2c-bf9b-517f13080b3c.png)
+# Favourite Page
+![screencapture-fanendrashelki-github-io-favourite-2022-09-14-14_14_40](https://user-images.githubusercontent.com/58651025/190107291-1e589870-b6a7-48f7-a206-da6c5119e86d.png)
+# Movies details page
+![screencapture-localhost-3000-movies-616037-2022-09-14-14_16_10](https://user-images.githubusercontent.com/58651025/190107316-3a0baecf-f784-449c-83a8-b294bbb00402.png)
+# Movies trailer
+![screencapture-localhost-3000-movies-616037-2022-09-14-14_16_21](https://user-images.githubusercontent.com/58651025/190107351-50a3462f-0f47-4ec4-8d19-318a282f9d42.png)
 
 
 # Getting Started with Create React App
