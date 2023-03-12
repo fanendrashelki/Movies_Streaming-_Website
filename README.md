@@ -1,4 +1,4 @@
-https://fanendrashelki.github.io/Movies_Streaming-_Website/
+https://fanendrashelki.github.io/
 # Home Page
 ![screencapture-localhost-3000-2022-09-14-14_15_46](https://user-images.githubusercontent.com/58651025/190107208-329214dd-1911-4a2c-bf9b-517f13080b3c.png)
 # Favourite Page
